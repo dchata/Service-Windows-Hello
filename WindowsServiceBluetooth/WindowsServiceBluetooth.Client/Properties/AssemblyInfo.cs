@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("WindowsServiceBluetooth.Service")]
+[assembly: AssemblyTitle("WindowsServiceBluetooth.Client")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WindowsServiceBluetooth.Service")]
+[assembly: AssemblyProduct("WindowsServiceBluetooth.Client")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("69a8fe96-1cb1-432b-9b78-58d88e7e59e5")]
+[assembly: Guid("9226d7f1-6129-4913-aa4c-6f3ce9e4f3b9")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //
